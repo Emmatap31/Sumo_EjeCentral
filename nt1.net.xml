@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2025-04-06 23:49:10 by Eclipse SUMO netedit Version v1_21_0+0707-ca487ebdee8
+<!-- generated on 2025-05-05 12:23:05 by Eclipse SUMO netedit Version v1_21_0+0707-ca487ebdee8
 <neteditConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
 
     <input>
-        <sumocfg-file value="C:\Users\emman\Desktop\Servicio\SUMO\SUMO_EjeCentral\Sumo_EjeCentral\nt5.sumocfg"/>
-        <additional-files value="C:\Users\emman\Desktop\Servicio\SUMO\SUMO_EjeCentral\Sumo_EjeCentral\nt1.add.xml"/>
-        <route-files value="C:\Users\emman\Desktop\Servicio\SUMO\SUMO_EjeCentral\Sumo_EjeCentral\nt1.rou.xml"/>
-        <data-files value="C:\Users\emman\Desktop\Servicio\SUMO\SUMO_EjeCentral\Sumo_EjeCentral\nt1.dat.xml"/>
-        <sumo-net-file value="C:\Users\emman\Desktop\Servicio\SUMO\SUMO_EjeCentral\Sumo_EjeCentral\nt1.net.xml"/>
+        <sumocfg-file value="C:\Users\Erasmo\Desktop\Emmanuel\SUMO\Sumo_EjeCentral\nt1.sumocfg"/>
+        <additional-files value="C:\Users\Erasmo\Desktop\Emmanuel\SUMO\Sumo_EjeCentral\nt1.add.xml"/>
+        <route-files value="C:\Users\Erasmo\Desktop\Emmanuel\SUMO\Sumo_EjeCentral\nt1.rou.xml"/>
+        <data-files value="C:\Users\Erasmo\Desktop\Emmanuel\SUMO\Sumo_EjeCentral\nt1.dat.xml"/>
+        <sumo-net-file value="C:\Users\Erasmo\Desktop\Emmanuel\SUMO\Sumo_EjeCentral\nt1.net.xml"/>
     </input>
 
     <output>
-        <output-file value="C:\Users\emman\Desktop\Servicio\SUMO\SUMO_EjeCentral\Sumo_EjeCentral\nt1.net.xml"/>
+        <output-file value="C:\Users\Erasmo\Desktop\Emmanuel\SUMO\Sumo_EjeCentral\nt1.net.xml"/>
     </output>
 
     <processing>
@@ -32,10 +32,6 @@
     <pedestrian>
         <walkingareas value="0"/>
     </pedestrian>
-
-    <netedit>
-        <new-network value="false"/>
-    </netedit>
 
 </neteditConfiguration>
 -->
@@ -71,7 +67,6 @@
         <phase duration="3"  state="yyrr"/>
         <phase duration="15" state="rrGG"/>
         <phase duration="3"  state="rryy"/>
-        <phase duration="1"  state="rrrr"/>
     </tlLogic>
 
     <junction id="J0" type="dead_end" x="-9.48" y="-53.04" incLanes="" intLanes="" shape="-9.48,-53.04 -3.08,-53.04"/>
